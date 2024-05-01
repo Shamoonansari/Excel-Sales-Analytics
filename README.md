@@ -40,7 +40,7 @@ Aligning financial planning strategies with overarching strategic objectives and
 
 [View Profit and Loss (P&L) Report by Markets](https://github.com/Shamoonansari/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20By%20Markets.pdf)
 
-[View Profit and Loss (P&L) Report by Fiscal Year](https://github.com/Shamoonansari/Excel-Sales-Analytics/blob/main/p%20%26%20l%20year.pdf)
+[View Profit and Loss (P&L) Report by Fiscal Year](https://github.com/Shamoonansari/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 
 [View Profit and Loss (P&L) Report by Fiscal Months](https://github.com/Shamoonansari/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
