@@ -3,7 +3,7 @@
 ## Sales Report:
 
 ### Project Objective:
-1. Create a [Market Performance vs Target Report](Market_Performance_vs_Target_Report.pdf).
+1. Create a [Market Performance vs Target Report]([Market_Performance_vs_Target_Report.pdf](https://github.com/Shamoonansari/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
 2. Conduct a comprehensive comparison between [market performance and sales targets](Market_Performance_vs_Target_Report.pdf).
 
 ### Purpose of Sales Analytics:
@@ -18,7 +18,7 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 ## Finance Report:
 
 ### Project Objective:
-1. Create Profit and Loss (P&L) reports by [Fiscal Year](P&L_Statement_by_Fiscal_Year.pdf) & [Months](P&L_Statement_by_Months.pdf).
+1. Create Profit and Loss (P&L) reports by [Fiscal Year]([P&L_Statement_by_Fiscal_Year.pdf](https://github.com/Shamoonansari/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months]([P&L_Statement_by_Months.pdf](https://github.com/Shamoonansari/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf).
 2. Create Profit and Loss (P&L) reports by [Markets](P&L_Statement_by_Markets.pdf).
 
 ### Purpose of Sales Analytics:
